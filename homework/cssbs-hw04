@@ -1,0 +1,70 @@
+.echo on
+.headers on
+
+--Name: cssbs-hw04.txt
+--Author: Greg Stephens
+--Date: 10 July, 2019
+
+--1. What are all possible values of a Boolean expression?
+TRUE, FALSE
+
+--2. List eight Boolean operators.
+==, !=, <, <=, >, >=, !, &&
+
+--3. What is the general concept of short circuiting? This question has a short and simple answer and you
+--do not need to have a detailed response.
+if the left operand evaluates to false/true, the entire expression is false/true
+
+--4. What are the difference in how short circuiting works for && and ||?
+&& evaluates false when the left expression is false, but the || expression will evaluate the entire statement to true when the left expression is true
+&&operator has a higher precedence than ||
+
+--5. Look at the list of operators. What operator has the highest precedence? Which has the lowest?
+() has precedence override, = has the lowest precedence
+
+--6. In an if or else construction using multiple lines of code, what effect does the use of curly braces have?
+starts a new scope with the if/else constructions lines of code, allowing to define variables in the block without
+interfering with other statements outside of the construction. without the braces, the compiler will only associate the
+first statement with the if/else construction.
+
+--7. In a switch statement, what happens if you omit break?
+the execution will fall through to the next lable and cause bugs that are hard to find
+without break theres no way to escape the switch statement
+
+--8. (Not in book) What is a recursive method? Using a language you know (such as English), write a
+--recursive method that adds up the integers in a list of integers. The input to the method is a list of
+--integers and the output is a scalar value representing a sum.
+a recursive method is a method that calls itself. that is its a block of statements that repeat until a criteria is met
+in english, a recursive method would sound something like: if a=10, stop. if it doesnt equal 10, add 1. and repeat until a=10.
+in C# it would look more like below
+
+
+using System;    
+    
+namespace InterviewQuestionPart4    
+{    
+    class Program    
+    {    
+        static void Main(string[] args)    
+        {    
+            Console.WriteLine("Please Enter a Number");    
+    
+            //read number from user    
+            int number =Convert.ToInt32(Console.ReadLine());    
+    
+            //invoke the static method    
+            double factorial = Factorial(number);    
+    
+            //print the factorial result    
+            Console.WriteLine("factorial of"+number+"="+factorial.ToString());    
+    
+        }    
+        public static double Factorial(int number)    
+        {    
+            if (number == 0)    
+                return 1;    
+            return number * Factorial(number-1);//Recursive call    
+    
+        }    
+    }    
+}  

@@ -1,0 +1,7 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\8-04 questions\bin\Debug\8-04 questions.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\8-04 questions\bin\Debug\8-04 questions.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\8-04 questions\bin\Debug\8-04 questions.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\8-04 questions\obj\Debug\8-04 questions.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\8-04 questions\obj\Debug\8-04 questions.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\8-04 questions\obj\Debug\8-04 questions.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\8-04 questions\obj\Debug\8-04 questions.pdb

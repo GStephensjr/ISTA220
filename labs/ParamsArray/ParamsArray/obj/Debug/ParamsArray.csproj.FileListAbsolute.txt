@@ -1,0 +1,7 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\ParamsArray\ParamsArray\obj\Debug\ParamsArray.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\ParamsArray\ParamsArray\obj\Debug\ParamsArray.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\ParamsArray\ParamsArray\bin\Debug\ParamsArray.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\ParamsArray\ParamsArray\bin\Debug\ParamsArray.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\ParamsArray\ParamsArray\bin\Debug\ParamsArray.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\ParamsArray\ParamsArray\obj\Debug\ParamsArray.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\ParamsArray\ParamsArray\obj\Debug\ParamsArray.pdb

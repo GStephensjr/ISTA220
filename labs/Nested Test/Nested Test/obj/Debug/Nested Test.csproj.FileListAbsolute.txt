@@ -1,0 +1,7 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Nested Test\Nested Test\bin\Debug\Nested Test.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Nested Test\Nested Test\bin\Debug\Nested Test.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Nested Test\Nested Test\bin\Debug\Nested Test.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Nested Test\Nested Test\obj\Debug\Nested Test.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Nested Test\Nested Test\obj\Debug\Nested Test.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Nested Test\Nested Test\obj\Debug\Nested Test.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Nested Test\Nested Test\obj\Debug\Nested Test.pdb

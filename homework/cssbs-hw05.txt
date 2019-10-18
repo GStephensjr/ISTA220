@@ -1,0 +1,40 @@
+Name: cssbs-hw05.txt
+Author: Greg Stephens
+Date: 15 July, 2019
+
+
+--1. What is a compound assignment operator? How does it work?
+it is a shorthand command C# recognizes as arithmetic operators and uses to perform functions
+instead of writing [variable = variable * number;] you would write [variable *= number;]
+
+--2. List all the compound assignment operators.
+variable *= number;
+variable /= number;
+variable %= number;
+variable += number;
+variable -= number;
+
+--3. List two ways to increment a numeric variable by 5. List two ways to decrement a numeric variable by 50.
+variable = variable + 5; OR 5 += variable;
+variable = variable - 50; OR 50 -= variable;
+pg 116. count += 1; OR count++; (examples for count dont explain multiple number increments)
+
+--4. How long does a while loop run?
+the while loop runs untils the expression becomes false
+
+--5. What happens if you don’t change the loop variable in the body of the while loop block?
+the program will loop the statement forever or until it runs out of memory
+
+--6. How many parts does a for loop statement have? Can you omit any of them? Can you omit all of
+--them? What happens if you omit all of them?
+Pg 122. 3 parts. any of them can be omitted legally, but omitting the boolean expression causes the statement to loop forever.
+if you omit them all you dont have a for loop statement anymore?
+
+--7. How do you guarantee that a loop runs at least once?
+by creating a do statement
+
+--8. What does the break statement do?
+it exits the loop immediately, execution continues at the first statement after the loop
+
+--9. What does the continue statement do?
+the continue statement starts the loop over again immediately.

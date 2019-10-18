@@ -1,0 +1,50 @@
+Name: cssbs-hw02.txt
+Author: Greg Stephens
+Date: 3 July, 2019
+
+
+1. What is a local variable?
+variables that exist only in a method or another small section of code
+
+2. What is a statement?
+A statement is a command that performs an action, such as calculating a value and storing the result or displaying a message to a user.
+
+3. What is an identifier?
+Identifiers are symbols used to uniquely identify a program element in the code.
+
+4. What is a variable?
+a named place in memory that stores a value
+
+5. What is a method?
+a named sequence of statements
+
+6. Are primitive types and value types the same thing? This is not in the book.
+all primitive types are value types but not all value types are primitive types
+
+7. How are arithmetic operators and variable types related?
+they dont really have anything to do with eachother
+
+8. How do you turn an integer into a string?
+parse the integer into a string
+
+9. How do you turn a string into an integer?
+parse the string into an integer
+Int32.Parse();
+
+10. What is the difference between precedence and associativity? Give an example where this makes a
+difference.
+precedence determines which operator is performed first in an expression with more than one operators with different precedence. Operators Associativity is used when two operators of same precedence appear in an expression. Associativity can be either Left to Right or Right to Left. Precedence is vertical.
+
+11. What is the definite assignment rule?
+Definite assignment is a rule simply stating that every variable must have a value before it's read from
+
+12. How are the prefix and postfix increment and decrement operators evaluated differently?
+the prefix operator increments before you assign; the postfix operator assigns, then increments
+
+13. What is string interpolation?
+String interpolation provides a more readable and convenient syntax to create formatted strings than a string composite formatting feature
+
+14. What does the var keyword do?
+it implicitly assigns a datatype to a variable, as opposed to directly declaring the types
+int i = 10;
+var i = 10;

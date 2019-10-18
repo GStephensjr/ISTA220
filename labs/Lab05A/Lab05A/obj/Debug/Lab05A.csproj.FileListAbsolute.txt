@@ -1,0 +1,7 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Lab05A\Lab05A\bin\Debug\Lab05A.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Lab05A\Lab05A\bin\Debug\Lab05A.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Lab05A\Lab05A\bin\Debug\Lab05A.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Lab05A\Lab05A\obj\Debug\Lab05A.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Lab05A\Lab05A\obj\Debug\Lab05A.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Lab05A\Lab05A\obj\Debug\Lab05A.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Lab05A\Lab05A\obj\Debug\Lab05A.pdb

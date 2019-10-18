@@ -1,0 +1,60 @@
+.echo on
+.headers on
+
+--Name: cssbs-hw03.txt
+--Author: Greg Stephens
+--Date: July 9, 2019
+
+--1. What is a method?
+-- a block of code containing a series of statements
+
+--2. What does a return statement do?
+--terminates the execution of the method containing it (returns control to the calling method)
+
+--3. What is an expression bodied method?
+--An expression-bodied method consists of a single expression that returns a value whose type matches the method's return type
+--(for methods that return void it performs some operation)
+--no difference in functionality from an ordinary method, it only makes the code easier to read
+
+--4. What is the scope of a variable?
+--the part of the code that the program has access to. variables that can currently be accessed are in the "scope" at that location
+--the scope of a variable is the region of the program in which the variable is usable.
+--use opening and closing braces to define scope 
+
+--5. What is an overloaded method?
+-- an overloaded method is a method with two identifiers with the same name declared in the same scope.
+--its a common way of implementing polymorphism. it can be done by chaning the number of parameters in two methods, the data types of parameters in methods or the order of the parameters
+
+--6. How do you call a method that requirements arguments?
+--
+
+--7. How do you write a method, that is, specify the method definition, that requires a parameter list?
+int arg1 = 99;
+float arg2 = 100.0F;
+int arg3 = 101;
+DoWorkWithData(arg1, arg2, arg3); // Call overload with three parameters
+DoWorkWithData(arg1, arg2); // Call overload with two parameters
+
+--8. How do you specify a parameter as optional when defining a method?
+optMethod();
+
+--9. How do you pass a argument to a method as a named parameter?
+--specify the name of the parameter, folloed by a colon and the value to use
+optMethod(first : 99, second : 123.45, third : "World");
+optMethod(first : 100, second : 54.321);
+
+--10. How do you return values from a method? Can you return multiple values from a method, and if so, how?
+--just use a return type like int, float, bool, string
+--you can return multiple values in a method by using a tuple
+(int, int) returnMultipleValues(...)
+{
+int val1;
+int val2;
+... // Calculate values for val1 and val2
+return(val1, val2);
+}
+
+
+--11. How does the compiler resolve an ambiguity between named arguments and optional parameters?
+--it runs the optmethod that most closely matches the method call. pg 87-88
+

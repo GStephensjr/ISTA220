@@ -1,0 +1,7 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\MRCARTERSLESSON\bin\Debug\MRCARTERSLESSON.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\MRCARTERSLESSON\bin\Debug\MRCARTERSLESSON.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\MRCARTERSLESSON\bin\Debug\MRCARTERSLESSON.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\MRCARTERSLESSON\obj\Debug\MRCARTERSLESSON.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\MRCARTERSLESSON\obj\Debug\MRCARTERSLESSON.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\MRCARTERSLESSON\obj\Debug\MRCARTERSLESSON.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\MRCARTERSLESSON\obj\Debug\MRCARTERSLESSON.pdb

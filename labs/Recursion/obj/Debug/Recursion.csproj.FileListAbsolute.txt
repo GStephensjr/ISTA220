@@ -1,0 +1,7 @@
+C:\Users\WWStudent\playpen7\ISTA220\labs\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\WWStudent\playpen7\ISTA220\labs\Recursion\bin\Debug\Recursion.exe
+C:\Users\WWStudent\playpen7\ISTA220\labs\Recursion\bin\Debug\Recursion.pdb
+C:\Users\WWStudent\playpen7\ISTA220\labs\Recursion\obj\Debug\Recursion.csprojAssemblyReference.cache
+C:\Users\WWStudent\playpen7\ISTA220\labs\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\WWStudent\playpen7\ISTA220\labs\Recursion\obj\Debug\Recursion.exe
+C:\Users\WWStudent\playpen7\ISTA220\labs\Recursion\obj\Debug\Recursion.pdb

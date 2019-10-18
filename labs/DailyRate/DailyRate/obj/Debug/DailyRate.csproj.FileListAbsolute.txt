@@ -1,0 +1,7 @@
+C:\Users\WWStudent\playpen7\ISTA220\labs\DailyRate\DailyRate\obj\Debug\DailyRate.csprojAssemblyReference.cache
+C:\Users\WWStudent\playpen7\ISTA220\labs\DailyRate\DailyRate\obj\Debug\DailyRate.csproj.CoreCompileInputs.cache
+C:\Users\WWStudent\playpen7\ISTA220\labs\DailyRate\DailyRate\bin\Debug\DailyRate.exe.config
+C:\Users\WWStudent\playpen7\ISTA220\labs\DailyRate\DailyRate\bin\Debug\DailyRate.exe
+C:\Users\WWStudent\playpen7\ISTA220\labs\DailyRate\DailyRate\bin\Debug\DailyRate.pdb
+C:\Users\WWStudent\playpen7\ISTA220\labs\DailyRate\DailyRate\obj\Debug\DailyRate.exe
+C:\Users\WWStudent\playpen7\ISTA220\labs\DailyRate\DailyRate\obj\Debug\DailyRate.pdb

@@ -1,0 +1,14 @@
+C:\Users\Gregory\Desktop\cssbs-ex03\bin\Debug\cssbs-ex03.exe.config
+C:\Users\Gregory\Desktop\cssbs-ex03\bin\Debug\cssbs-ex03.exe
+C:\Users\Gregory\Desktop\cssbs-ex03\bin\Debug\cssbs-ex03.pdb
+C:\Users\Gregory\Desktop\cssbs-ex03\obj\Debug\cssbs-ex03.csprojAssemblyReference.cache
+C:\Users\Gregory\Desktop\cssbs-ex03\obj\Debug\cssbs-ex03.csproj.CoreCompileInputs.cache
+C:\Users\Gregory\Desktop\cssbs-ex03\obj\Debug\cssbs-ex03.exe
+C:\Users\Gregory\Desktop\cssbs-ex03\obj\Debug\cssbs-ex03.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\cssbs-ex03\bin\Debug\cssbs-ex03.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\cssbs-ex03\bin\Debug\cssbs-ex03.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\cssbs-ex03\bin\Debug\cssbs-ex03.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\cssbs-ex03\obj\Debug\cssbs-ex03.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\cssbs-ex03\obj\Debug\cssbs-ex03.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\cssbs-ex03\obj\Debug\cssbs-ex03.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\cssbs-ex03\obj\Debug\cssbs-ex03.pdb

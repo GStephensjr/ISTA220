@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\WWStudent\\playpen7\\ISTA220\\labs\\PrimitiveDataTypes\\PrimitiveDataTypes\\PrimitiveDataTypes.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\WWStudent\\playpen7\\ISTA220\\labs\\PrimitiveDataTypes\\PrimitiveDataTypes\\PrimitiveDataTypes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\WWStudent\\playpen7\\ISTA220\\labs\\PrimitiveDataTypes\\PrimitiveDataTypes\\PrimitiveDataTypes.csproj",
+        "projectName": "PrimitiveDataTypes",
+        "projectPath": "C:\\Users\\WWStudent\\playpen7\\ISTA220\\labs\\PrimitiveDataTypes\\PrimitiveDataTypes\\PrimitiveDataTypes.csproj",
+        "projectJsonPath": "C:\\Users\\WWStudent\\playpen7\\ISTA220\\labs\\PrimitiveDataTypes\\PrimitiveDataTypes\\project.json",
+        "packagesPath": "C:\\Users\\WWStudent\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WWStudent\\playpen7\\ISTA220\\labs\\PrimitiveDataTypes\\PrimitiveDataTypes\\obj\\",
+        "projectStyle": "ProjectJson",
+        "configFilePaths": [
+          "C:\\Users\\WWStudent\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      },
+      "dependencies": {
+        "Microsoft.ApplicationInsights": "[1.0.0, )",
+        "Microsoft.ApplicationInsights.PersistenceChannel": "[1.0.0, )",
+        "Microsoft.ApplicationInsights.WindowsApps": "[1.0.0, )",
+        "Microsoft.NETCore.UniversalWindowsPlatform": "[5.0.0, )"
+      },
+      "frameworks": {
+        "uap10.0.10240": {}
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

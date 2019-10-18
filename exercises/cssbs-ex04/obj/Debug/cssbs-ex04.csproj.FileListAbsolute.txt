@@ -1,0 +1,7 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\cssbs-ex04\bin\Debug\cssbs-ex04.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\cssbs-ex04\bin\Debug\cssbs-ex04.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\cssbs-ex04\bin\Debug\cssbs-ex04.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\cssbs-ex04\obj\Debug\cssbs-ex04.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\cssbs-ex04\obj\Debug\cssbs-ex04.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\cssbs-ex04\obj\Debug\cssbs-ex04.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\exercises\cssbs-ex04\obj\Debug\cssbs-ex04.pdb

@@ -1,0 +1,26 @@
+Name: cssbs-hw01.txt
+Author: Greg Stephens
+Date: 1 July, 2019
+
+1.	In C#, all code must be written inside a ________.
+Statement/Syntax
+
+2.	Program execution starts in the ________ method.
+Main
+
+3.	In order to turn code into an executable file, you must ________ it.
+Build (Solution)
+
+4.	You bring the contents of a namespace into scope with the ________ keyword.
+Using
+
+5.	Every statement in C# must end with a ________.
+; (semicolon)
+
+6.	A variable identifies a ________ stored in the computer's ________.
+value, memory
+
+7.	The ________ operator assigns a value to a variable.
+assignent
+8.	If you do not ________ a variable, C# will not allow you to use it.
+assign

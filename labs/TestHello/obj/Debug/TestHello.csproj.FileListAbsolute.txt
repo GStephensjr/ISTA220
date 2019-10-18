@@ -1,0 +1,7 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\TestHello\bin\Debug\TestHello.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\TestHello\bin\Debug\TestHello.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\TestHello\bin\Debug\TestHello.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\TestHello\obj\Debug\TestHello.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\TestHello\obj\Debug\TestHello.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\TestHello\obj\Debug\TestHello.pdb

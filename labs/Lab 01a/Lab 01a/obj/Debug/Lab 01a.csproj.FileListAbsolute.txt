@@ -1,0 +1,7 @@
+C:\Users\WWStudent\playpen7\ISTA220\labs\Lab 01a\Lab 01a\obj\Debug\Lab 01a.csprojAssemblyReference.cache
+C:\Users\WWStudent\playpen7\ISTA220\labs\Lab 01a\Lab 01a\obj\Debug\Lab 01a.csproj.CoreCompileInputs.cache
+C:\Users\WWStudent\playpen7\ISTA220\labs\Lab 01a\Lab 01a\bin\Debug\Lab 01a.exe.config
+C:\Users\WWStudent\playpen7\ISTA220\labs\Lab 01a\Lab 01a\bin\Debug\Lab 01a.exe
+C:\Users\WWStudent\playpen7\ISTA220\labs\Lab 01a\Lab 01a\bin\Debug\Lab 01a.pdb
+C:\Users\WWStudent\playpen7\ISTA220\labs\Lab 01a\Lab 01a\obj\Debug\Lab 01a.exe
+C:\Users\WWStudent\playpen7\ISTA220\labs\Lab 01a\Lab 01a\obj\Debug\Lab 01a.pdb

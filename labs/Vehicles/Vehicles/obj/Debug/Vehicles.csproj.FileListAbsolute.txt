@@ -1,0 +1,7 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Vehicles\Vehicles\bin\Debug\Vehicles.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Vehicles\Vehicles\bin\Debug\Vehicles.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Vehicles\Vehicles\bin\Debug\Vehicles.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Vehicles\Vehicles\obj\Debug\Vehicles.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Vehicles\Vehicles\obj\Debug\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Vehicles\Vehicles\obj\Debug\Vehicles.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\ISTA220\labs\Vehicles\Vehicles\obj\Debug\Vehicles.pdb
